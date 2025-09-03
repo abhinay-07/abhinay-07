@@ -1,39 +1,85 @@
-<h1 align="center">Hi 👋, I'm Abhinay Manikanti</h1>
-<h3 align="center">A passionate full-stack developer from India</h3>
-
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=abhinay-07&label=Profile%20views&color=0e75b6&style=flat" alt="abhinay-07" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=abhinay-07" alt="abhinay-07" /></a> </p>
-
-- 🌱 I’m currently learning **spring , next.js**
-
-- 👨‍💻 All of my projects are available at [abhinay.tech](abhinay.tech)
-
-- 💬 Ask me about **react , node.js , springboot**
-
-- 📫 How to reach me **manikantiabhinay@gmail.com**
-
-- 📄 Know about my experiences [https://drive.google.com/file/d/1lJgcgPNaebHdThIdSkCWingUyLJIluJd/view?usp=drive_link](https://drive.google.com/file/d/1lJgcgPNaebHdThIdSkCWingUyLJIluJd/view?usp=drive_link)
-
-- ⚡ Fun fact **i think iam mad😁 !**
-
-### Blogs posts
-<!-- BLOG-POST-LIST:START -->
-<!-- BLOG-POST-LIST:END -->
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://www.abhinay.tech/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="abhinay.tech" height="30" width="40" /></a>
-<a href="https://www.linkedin.com/in/abhinay-manikanti-9ab152275/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="manikanti abhinay" height="30" width="40" /></a>
-<a href="https://instagram.com/abhinay_manikanti" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="abhinay_manikanti" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/abhinaymanikanti" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="abhinaymanikanti" height="30" width="40" /></a>
+<!-- Typing animation header -->
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&color=36BCF7&center=true&vCenter=true&width=600&lines=Hi+%F0%9F%91%8B%2C+I'm+Abhinay+Manikanti;Full-Stack+Developer+%7C+Data+Enthusiast;Passionate+about+Building+Scalable+Solutions" alt="Typing Animation" />
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> <a href="https://www.framer.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/framer/framer-icon.svg" alt="framer" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mathworks.com/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/2/21/Matlab_Logo.png" alt="matlab" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://reactnative.dev/" target="_blank" rel="noreferrer"> <img src="https://reactnative.dev/img/header_logo.svg" alt="reactnative" width="40" height="40"/> </a> <a href="https://redux.js.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" alt="redux" width="40" height="40"/> </a> <a href="https://spring.io/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" alt="spring" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/> </a> <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a> <a href="https://vuejs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original-wordmark.svg" alt="vuejs" width="40" height="40"/> </a> </p>
+---
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=abhinay-07&show_icons=true&locale=en&layout=compact" alt="abhinay-07" /></p>
+<h1 align="center">👨‍💻 Abhinay Manikanti</h1>
+<h3 align="center">🚀 Full-Stack Developer | Data Enthusiast | Problem Solver</h3>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=abhinay-07&show_icons=true&locale=en" alt="abhinay-07" /></p>
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=abhinay-07&label=Profile+Views&color=36BCF7&style=flat-square" alt="profile views" />
+  <a href="https://github.com/abhinay-07?tab=followers"><img src="https://img.shields.io/github/followers/abhinay-07?label=Followers&style=flat-square&color=36BCF7" alt="followers"/></a>
+</p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=abhinay-07&" alt="abhinay-07" /></p>
+---
+
+## 👨‍💻 About Me  
+
+🔹 Full-Stack Developer from India, passionate about **designing scalable apps and AI-driven solutions**.  
+🔹 Currently working as **Frontend Developer Intern @ Shiksha Sathi** and **Full-Stack Developer Intern @ Prayana Electric**.  
+🔹 Exploring **Spring Boot** & **Next.js** to strengthen backend + frontend performance.  
+🔹 Active contributor to **open-source projects** & love collaborating with teams.  
+
+📫 Reach me at **manikantiabhinay@gmail.com**  
+🌐 Portfolio: [**abhinay.tech**](https://abhinay.tech)  
+📄 [View Resume](https://drive.google.com/file/d/1lJgcgPNaebHdThIdSkCWingUyLJIluJd/view?usp=drive_link)  
+
+---
+
+## 🌐 Connect with Me  
+
+<p align="center">
+  <a href="https://www.abhinay.tech/" target="blank"><img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" /></a>
+  <a href="https://www.linkedin.com/in/abhinay-manikanti-9ab152275/" target="blank"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <a href="https://instagram.com/abhinay_manikanti" target="blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" /></a>
+  <a href="https://leetcode.com/abhinaymanikanti" target="blank"><img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" /></a>
+</p>
+
+---
+
+## 🛠️ Tech Stack  
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=react,nextjs,nodejs,express,spring,java,js,ts,python,mysql,postgres,mongodb,html,css,tailwind,redux,vue,aws,docker,linux,git,figma,tensorflow&perline=10" />
+</p>
+
+---
+
+## 🚀 Featured Projects  
+
+- 🔹 **[ParkPlaze: Smart Parking System](https://github.com/abhinay-07/ParkPlaze)** – Automated parking with slot prediction, pre-booking & community rentals.  
+- 🔹 **[Enhanced Speech Emotion Recognition](https://github.com/abhinay-07/enhanced-ser)** – Real-time emotion detection with AI chat & transcription.  
+- 🔹 **[Traffic Sign Recognition](https://github.com/abhinay-07/traffic-sign-recognition)** – Deep learning models (EfficientNet vs DenseNet) for traffic sign classification.  
+
+---
+
+## 📊 GitHub Analytics  
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=abhinay-07&show_icons=true&theme=tokyonight&hide_border=true" height="170" />
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=abhinay-07&theme=tokyonight&hide_border=true" height="170" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=abhinay-07&layout=compact&theme=tokyonight&hide_border=true" height="150"/>
+</p>
+
+---
+
+## 🏆 GitHub Trophies  
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=abhinay-07&theme=onedark&margin-w=8&margin-h=8&row=1&column=6" />
+</p>
+
+---
+
+## 🎬 Fun Coding Vibe  
+
+<p align="center">
+  <img src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif" width="400" alt="coding gif">
+</p>
+
+---
