@@ -23,8 +23,8 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://dev.to/abhinay.tech" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="abhinay.tech" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/manikanti abhinay" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="manikanti abhinay" height="30" width="40" /></a>
+<a href="https://www.abhinay.tech/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="abhinay.tech" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/abhinay-manikanti-9ab152275/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="manikanti abhinay" height="30" width="40" /></a>
 <a href="https://instagram.com/abhinay_manikanti" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="abhinay_manikanti" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/abhinaymanikanti" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="abhinaymanikanti" height="30" width="40" /></a>
 </p>
