@@ -5,8 +5,8 @@
 
 ---
 
-<h1 align="center">👨‍💻 Abhinay Manikanti</h1>
-<h3 align="center">🚀 Full-Stack Developer | Data Enthusiast | Problem Solver</h3>
+<h1 align="center"> Abhinay Manikanti</h1>
+<h3 align="center"> Full-Stack Developer | Data Enthusiast | Problem Solver</h3>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=abhinay-07&label=Profile+Views&color=36BCF7&style=flat-square" alt="profile views" />
