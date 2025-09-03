@@ -15,7 +15,7 @@
 
 - 📄 Know about my experiences [https://drive.google.com/file/d/1lJgcgPNaebHdThIdSkCWingUyLJIluJd/view?usp=drive_link](https://drive.google.com/file/d/1lJgcgPNaebHdThIdSkCWingUyLJIluJd/view?usp=drive_link)
 
-- ⚡ Fun fact **i think iam mad !**
+- ⚡ Fun fact **i think iam mad😁 !**
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
