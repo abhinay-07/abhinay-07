@@ -47,13 +47,6 @@
 
 ---
 
-## 🚀 Featured Projects  
-
-- 🔹 **[ParkPlaze: Smart Parking System](https://github.com/abhinay-07/ParkPlaze)** – Automated parking with slot prediction, pre-booking & community rentals.  
-- 🔹 **[Enhanced Speech Emotion Recognition](https://github.com/abhinay-07/enhanced-ser)** – Real-time emotion detection with AI chat & transcription.  
-- 🔹 **[Traffic Sign Recognition](https://github.com/abhinay-07/traffic-sign-recognition)** – Deep learning models (EfficientNet vs DenseNet) for traffic sign classification.  
-
----
 
 ## 📊 GitHub Analytics  
 
