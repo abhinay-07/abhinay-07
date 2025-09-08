@@ -22,8 +22,8 @@
 🔹 Exploring **Spring Boot** & **Next.js** to strengthen backend + frontend performance.  
 🔹 Active contributor to **open-source projects** & love collaborating with teams.  
 
-📫 Reach me at **manikantiabhinay@gmail.com**  
-🌐 Portfolio: [**abhinay.tech**](https://abhinay.tech)  
+ Reach me at **manikantiabhinay@gmail.com**  
+ Portfolio: [**abhinay.tech**](https://abhinay.tech)  
 📄 [View Resume](https://drive.google.com/file/d/1lJgcgPNaebHdThIdSkCWingUyLJIluJd/view?usp=drive_link)  
 
 ---
