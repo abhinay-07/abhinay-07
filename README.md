@@ -55,7 +55,7 @@ Resume: [View Here](https://drive.google.com/file/d/1lJgcgPNaebHdThIdSkCWingUyLJ
 ---
 
 ## Achievements & Highlights  
-
+ 
 <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=abhinay-07&theme=matrix&no-frame=true&margin-w=8&margin-h=8&row=1&column=6" />
 </p>
