@@ -64,7 +64,7 @@ Resume: [View Here](https://drive.google.com/file/d/1lJgcgPNaebHdThIdSkCWingUyLJ
 
 ## Projects  
 
-| Project | Description | Tech Used |
+| Project | Description | Tech Used | 
 |----------|--------------|-----------|
 | [ParkPlaze](https://github.com/abhinay-07/ParkPlaze) | Smart Parking System with prebooking, live tracking, and automated management | React, Node.js, MongoDB, Express |
 | [TourTact](https://github.com/abhinay-07/TourTact) | Personalized travel planner with AI-based suggestions and booking system | React, Firebase, Tailwind |
