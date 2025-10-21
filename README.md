@@ -4,7 +4,7 @@
 </p>
 
 ---
-
+  
 <!-- Hero Header -->
 <h1 align="center">Abhinay Manikanti </h1>
 <h3 align="center">Full-Stack Developer | Data Enthusiast | Problem Solver</h3>
