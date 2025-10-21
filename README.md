@@ -1,7 +1,7 @@
 <!-- Animated Intro --> 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=25&duration=4000&pause=500&color=00E7FF&center=true&vCenter=true&width=600&lines=Hey,+I'm+Abhinay+Manikanti;Full-Stack+Developer;Data+Enthusiast;Building+Scalable+and+Smart+Solutions" alt="Typing Animation" />
-</p>
+</p> 
 
 ---
   
